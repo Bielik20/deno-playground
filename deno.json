@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true
+  },
+  "imports": {
+    "reflect-metadata": "npm:@abraham/reflection",
+    "@ns3/di": "npm:@ns3/di@^4.1.0",
+    "@ns3/rx-state": "npm:@ns3/rx-state@^4.1.0"
+  }
+}
